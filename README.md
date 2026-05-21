@@ -38,3 +38,9 @@ The general pipeline includes:
 4. Import of the processed reconstruction into CoppeliaSim.
 5. Collision-aware motion planning using OMPL planners.
 6. Target-following execution and quantitative evaluation.
+
+## Supplementary simulations and trajectory executions are available in the following video playlist:
+
+[YouTube playlist link]
+
+The videos provide visual examples of the planned trajectories and target-following executions for the evaluated OMPL planners.
