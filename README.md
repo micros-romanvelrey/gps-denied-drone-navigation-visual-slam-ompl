@@ -41,6 +41,6 @@ The general pipeline includes:
 
 ## Supplementary simulations and trajectory executions are available in the following video playlist:
 
-[YouTube playlist link]
+[https://youtu.be/xIe7PP6e23Y]
 
 The videos provide visual examples of the planned trajectories and target-following executions for the evaluated OMPL planners.
